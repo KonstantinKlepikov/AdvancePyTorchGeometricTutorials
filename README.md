@@ -16,5 +16,5 @@ Feel free to join our weekly online tutorial! For more details, have a look at t
 - Tutorial2: [GraphGym](https://youtu.be/dGRQe92PBBw)
 - Tutorial3: [Price Graphs](https://youtu.be/QTvb8m_7KUE): Utilizing the structural information of ﬁnancial time series for stock prediction
 - Tutorial4: [Heterogeneous graph learning](https://youtu.be/qL09oshDKww)
-- Tutorial5: Advanced mini-batching: Basics and an example with bipartite graphs - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/AdvancePyTorchGeometricTutorials/blob/main/Tutorial5/Tutorial_5.ipynb)
+- Tutorial5: [Advanced mini-batching: Basics and an example with bipartite graphs](https://www.youtube.com/watch?v=mz9xYNg9Ofs) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/AdvancePyTorchGeometricTutorials/blob/main/Tutorial5/Tutorial_5.ipynb)
 - Tutorial6: [Memory efficient aggregations](https://youtu.be/63OSxD85gGw) - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AntonioLonga/AdvancePyTorchGeometricTutorials/blob/main/Tutorial6/Tutorial6.ipynb)
